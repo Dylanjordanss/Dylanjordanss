@@ -1,13 +1,10 @@
+- 👋 Hi, I’m @Dylanjordanss
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-{
-    "consulta": [
-        {
-            "número 1,
-            "name": "Brasil New Revolution",
-            "ip": "198.251.82.33",
-            "porta": 7777,
-            "online": 16,
-            "maxplayers": 896,
-            "senha": falso
-        },
-        {
+<!---
+Dylanjordanss/Dylanjordanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
